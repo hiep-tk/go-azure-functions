@@ -9,7 +9,7 @@ import (
 )
 
 var quotes = []string{
-	"Testing",
+	"Testing this",
 	"Talk is cheap. Show me the code.",
 	"First, solve the problem. Then, write the code.",
 	"Experience is the name everyone gives to their mistakes.",
